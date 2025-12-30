@@ -1,7 +1,7 @@
 ---
 title: "FlashDeconv：用随机素描实现百万级空间转录组去卷积"
 date: "2024-12-29"
-author: "陈洋"
+author: "Chen Yang"
 categories:
   - 统计计算
   - 机器学习
